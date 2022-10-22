@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\obj\Debug\net6.0\LB5_1.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\obj\Debug\net6.0\LB5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\obj\Debug\net6.0\LB5_1.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\obj\Debug\net6.0\LB5_1.AssemblyInfo.cs
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\obj\Debug\net6.0\LB5_1.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\bin\Debug\net6.0\LB5_1.exe
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\bin\Debug\net6.0\LB5_1.deps.json
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\bin\Debug\net6.0\LB5_1.runtimeconfig.json
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\bin\Debug\net6.0\LB5_1.dll
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\bin\Debug\net6.0\LB5_1.pdb
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\obj\Debug\net6.0\LB5_1.dll
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\obj\Debug\net6.0\refint\LB5_1.dll
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\obj\Debug\net6.0\LB5_1.pdb
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\obj\Debug\net6.0\LB5_1.genruntimeconfig.cache
+C:\Users\Max\Desktop\С#\LB5\LB5_1\LB5_1\obj\Debug\net6.0\ref\LB5_1.dll
